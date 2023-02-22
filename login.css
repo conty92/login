@@ -1,0 +1,55 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        background-color: blue;
+    }
+    main{
+        padding: 20px;
+        background-color: floralwhite;
+        margin-top: 60px;
+        margin-left: 450px;
+        margin-right: 510px;
+        height: 600px;
+    }
+    
+    .hand{
+        color: blueviolet;
+    }
+    .header h2{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .header p{
+        text-align: center;
+        margin-top: 5px;
+    }
+    input{
+        width: 435px;
+        height: 20px;        
+    }
+    .forgot{
+    margin-left: 280px;
+    }
+    .three{
+        width: 435px;
+        height: 20px;
+        color: white;
+        background-color: blueviolet;
+    }
+    span{
+        color: blueviolet;
+    }
+
+    .logo{
+        width: 100px;
+        height: 100px;
+        background: blueviolet;
+        color: white;
+        border-radius: 50px;
+        text-align: center;
+        margin: auto;
+        display: grid;
+        place-content: center;
+    }
